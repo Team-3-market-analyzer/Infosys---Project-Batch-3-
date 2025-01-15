@@ -1,4 +1,4 @@
-# Infosys---Project-Batch-3
+# Infosys Project
 Global Market Trend Analyzer
 
  Project Statement:
